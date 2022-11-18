@@ -1,6 +1,6 @@
 <?php
 
-namespace Weimob\Cloud\Spi\Common;
+namespace WeimobAbility\Weimob\Cloud\Spi\Common;
 
 /**
  * SPI响应参数
@@ -10,18 +10,18 @@ class PaasResponseCode implements \JsonSerializable
 {
     /**
      * 	请求返回的状态码
-     * @var String
+     * @var string
      */
     private $errcode;
 
     /**
      * 	请求返回的状态码
-     * @var String
+     * @var string
      */
     private $errmsg;
 
     /**
-     * @return String
+     * @return string
      */
     public function getErrcode(): string
     {
@@ -29,7 +29,7 @@ class PaasResponseCode implements \JsonSerializable
     }
 
     /**
-     * @param String $errcode
+     * @param string $errcode
      */
     public function setErrcode(string $errcode): void
     {
@@ -37,7 +37,7 @@ class PaasResponseCode implements \JsonSerializable
     }
 
     /**
-     * @return String
+     * @return string
      */
     public function getErrmsg(): string
     {
@@ -45,7 +45,7 @@ class PaasResponseCode implements \JsonSerializable
     }
 
     /**
-     * @param String $errmsg
+     * @param string $errmsg
      */
     public function setErrmsg(string $errmsg): void
     {

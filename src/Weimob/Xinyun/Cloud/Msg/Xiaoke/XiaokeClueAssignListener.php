@@ -1,9 +1,9 @@
 <?php
 
-namespace Weimob\Xinyun\Cloud\Msg\Xiaoke;
+namespace WeimobAbility\Weimob\Xinyun\Cloud\Msg\Xiaoke;
 
-use Weimob\Cloud\Msg\Common\WeimobMessage;
-use Weimob\Cloud\Msg\Common\WeimobMessageAck;
+use WeimobAbility\Weimob\Cloud\Msg\Common\WeimobMessage;
+use WeimobAbility\Weimob\Cloud\Msg\Common\WeimobMessageAck;
 
 /**
  * @id 1,760

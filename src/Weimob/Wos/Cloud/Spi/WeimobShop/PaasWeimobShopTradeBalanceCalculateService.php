@@ -1,8 +1,8 @@
 <?php
 
-namespace Weimob\Wos\Cloud\Spi\WeimobShop;
+namespace WeimobAbility\Weimob\Wos\Cloud\Spi\WeimobShop;
 
-use Weimob\Cloud\Spi\Common\PaasResponseCode;
+use WeimobAbility\Weimob\Cloud\Spi\Common\PaasResponseCode;
 
 /**
  * @id 1,433

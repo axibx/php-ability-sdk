@@ -1,8 +1,8 @@
 <?php
 
-namespace Weimob\Xinyun\Cloud\Spi;
+namespace WeimobAbility\Weimob\Xinyun\Cloud\Spi;
 
-use Weimob\Cloud\Spi\Common\PaasResponseCode;
+use WeimobAbility\Weimob\Cloud\Spi\Common\PaasResponseCode;
 
 /**
  * @id 1,563

@@ -1,6 +1,6 @@
 <?php
 
-namespace Weimob\Cloud\Msg\Common;
+namespace WeimobAbility\Weimob\Cloud\Msg\Common;
 
 /**
  * 消息响应参数

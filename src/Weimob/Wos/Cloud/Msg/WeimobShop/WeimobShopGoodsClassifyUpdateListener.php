@@ -1,9 +1,9 @@
 <?php
 
-namespace Weimob\Wos\Cloud\Msg\WeimobShop;
+namespace WeimobAbility\Weimob\Wos\Cloud\Msg\WeimobShop;
 
-use Weimob\Cloud\Msg\Common\WeimobMessage;
-use Weimob\Cloud\Msg\Common\WeimobMessageAck;
+use WeimobAbility\Weimob\Cloud\Msg\Common\WeimobMessage;
+use WeimobAbility\Weimob\Cloud\Msg\Common\WeimobMessageAck;
 
 /**
  * @id 1,401

@@ -1,9 +1,9 @@
 <?php
 
-namespace Weimob\Xinyun\Cloud\Msg\Uc;
+namespace WeimobAbility\Weimob\Xinyun\Cloud\Msg\Uc;
 
-use Weimob\Cloud\Msg\Common\WeimobMessage;
-use Weimob\Cloud\Msg\Common\WeimobMessageAck;
+use WeimobAbility\Weimob\Cloud\Msg\Common\WeimobMessage;
+use WeimobAbility\Weimob\Cloud\Msg\Common\WeimobMessageAck;
 
 /**
  * @id 3,695
